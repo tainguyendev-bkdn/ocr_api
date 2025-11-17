@@ -3,8 +3,11 @@ uvicorn[standard]
 paddlepaddle==2.6.0
 paddleocr
 vietocr
+torch
 opencv-python
 python-multipart
 Pillow
+pillow-heif
 numpy
 PyMuPDF
+pytest

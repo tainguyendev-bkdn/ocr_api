@@ -1,0 +1,7 @@
+ocr_api/
+│
+├── main.py               # API FastAPI
+├── ocr_pipeline.py       # Pipeline Paddle detect -> VietOCR rec
+├── utils_pdf.py          # Tách ảnh từ PDF
+├── requirements.txt
+└── uploads/              # Files tạm
